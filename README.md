@@ -31,8 +31,16 @@ python app.py
 ![mainmenu](.\mainmenu.jpeg)
 
 ## API Help Document
-`SDESHelp.docx`中提供了可在控制台调用的API，并指定了输入输出格式.
+`APIHelpDocument.docx`中提供了可在控制台调用的API，并指定了输入输出格式.
 
 ## Test Report
 `Report.docx`中展示了对系统的功能测试以及结果.
+
+## User Guide
+
+`Guide.md`中提供了供用户阅读的使用手册
+
+
+
+
 
