@@ -28,7 +28,7 @@ python app.py
 `http://127.0.0.1:5000` .
 系统主界面如下
 
-![mainmenu](.\mainmenu.jpeg)
+![mainmenu](mainmenu.jpeg)
 
 ## API Help Document
 `APIHelpDocument.docx`中提供了可在控制台调用的API，并指定了输入输出格式.
